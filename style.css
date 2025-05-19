@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-weight: 100;
+}
+section {
+    padding: 20px;
+    text-align: center;
+    color: white;
+    max-width: 600px;
+    margin: auto; 
+}
+.Img-Universo {
+    width: 600px;
+    height: auto;
+    border-radius: 12px;
+  }
+  .Pagina {
+    display: inline-block;
+    background-color: #7031ac;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  
+  .Pagina:hover {
+    background-color: #470075;
+  }
+  
